@@ -20,6 +20,3 @@ src="https://raw.githubusercontent.com/gist/daniz019/e74bd9b47d018d0b15b8770a1b6
 <a href="https://www.linkedin.com/in/daniel-di-grandi-3800a0242/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-danieldigrandi-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://www.instagram.com/dani_digrandi/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-danieldigrandi-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
