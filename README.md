@@ -9,7 +9,7 @@ Me chamo Daniel Di Grandi, tenho 20 anos e sou natural de Campinas, SP. Concluí
         <img 
             alt="github views" 
             title="Visualizações do Github" 
-            src="https://komarev.com/ghpvc/?username=daniz019&color=blue&style=for-the-badge"
+            src="https://komarev.com/ghpvc/?username=daniz019&color=yellow&style=for-the-badge"
         />
     </a> 
     <a href="https://github.com/daniz019?tab=repositories&sort=stargazers">
