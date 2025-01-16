@@ -1,22 +1,5 @@
 # Daniel Di Grandi
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=50&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Tech+Innovator" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <a href="mailto:danieldigrandi08@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/daniel-di-grandi-3800a0242/">
-    <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=blue" />
-  </a>
-  <a href="https://github.com/daniz019">
-    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
-<br>
 
 ## 🚀 Sobre Mim
 
