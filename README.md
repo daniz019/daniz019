@@ -1,6 +1,10 @@
 # Daniel Di Grandi
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=50&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Tech+Innovator" alt="Typing SVG" />
+</div>
+
+<div align="center">
   <a href="mailto:danieldigrandi08@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -47,8 +51,8 @@ Sou um Engenheiro de Software apaixonado por transformar ideias em soluções te
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=daniz019&show_icons=true&count_private=true&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9&bg_color=0d1117&ring_color=3B82F6" alt="GitHub Stats" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniz019&layout=compact&hide_border=true&title_color=3B82F6&text_color=c9d1d9&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniz019&show_icons=true&count_private=true&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9&bg_color=0d1117&ring_color=3B82F6" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniz019&layout=compact&hide_border=true&title_color=3B82F6&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 ## 🎓 Formação & Especialização
