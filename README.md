@@ -1,72 +1,67 @@
-# 👨‍💻 Daniel Di Grandi
+# Daniel Di Grandi | Desenvolvedor FullStack 🚀
 
-**`Desenvolvedor FullStack`**
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00c5c6&center=true&vCenter=true&width=435&lines=Desenvolvedor+FullStack;Engenheiro+de+Software;Especialista+em+Automa%C3%A7%C3%A3o;Apaixonado+por+Tecnologia" alt="Typing SVG" />
+</div>
 
-Me chamo Daniel Di Grandi, tenho 20 anos e sou natural de Campinas, SP. Concluí o ensino médio e atualmente estou cursando Engenharia de Software na Faculdade Anhanguera. Sou apaixonado por tecnologia, automação e inteligência artificial, e compartilho meu conhecimento através de meus projetos no GitHub, onde desenvolvo ferramentas e projetos como bots de automação e scripts para jogos.
+## 🎯 Foco Profissional
 
-<p align="left">
-    <a href="https://github.com/daniz019">
-        <img 
-            alt="github views" 
-            title="Visualizações do Github" 
-            src="https://komarev.com/ghpvc/?username=daniz019&color=yellow&style=for-the-badge"
-        />
-    </a> 
-    <a href="https://github.com/daniz019?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/daniz019?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/daniz019?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/daniz019?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+> "A tecnologia move o mundo" - Steve Jobs
 
----
+Desenvolvedor FullStack com paixão por criar soluções inovadoras. Especializado em automação e desenvolvimento de bots, sempre buscando aprender e aplicar novas tecnologias.
 
-### 🤖 Linguagens e Tecnologias
+## 🚀 Habilidades Técnicas
 
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="C#" title="C#" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img align="left" alt="C++" title="C++" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Angular" title="Angular" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="Lua" title="Lua" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
-<img align="left" alt="Flutter" title="Flutter" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+<div align="center">
 
-<br/>
-<br/>
+### Linguagens & Frameworks
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+[![C#](https://skillicons.dev/icons?i=cs)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
+[![Lua](https://skillicons.dev/icons?i=lua)](https://www.lua.org/)
 
+### Frontend & Mobile
+[![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Angular](https://skillicons.dev/icons?i=angular)](https://angular.io/)
+[![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/)
 
-### 📊 Estatísticas
+### Backend & Databases
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 
-<table>
-  <tr>
-    <td>
-      <img 
-        align="left" 
-        alt="GitHub Stats" 
-        height="200" 
-        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=daniz019&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-      />
-    </td>
-    <td>
-      <img 
-        align="left" 
-        alt="GitHub Stats" 
-        height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniz019&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-      />
-    </td>
-  </tr>
-</table>
+</div>
+
+## 📊 Análise do GitHub
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=daniz019&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Daniel Di Grandi github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniz019&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
+## 🎓 Formação Acadêmica
+
+- Cursando Engenharia de Software na Faculdade Anhanguera
+- Foco em desenvolvimento de Software e Arquitetura de sistemas
+- Interesse especial em Inteligência Artificial e Machine Learning
+
+## 📈 Métricas do Perfil
+
+<div align="center">
+  
+[![Visualizações](https://komarev.com/ghpvc/?username=daniz019&label=Visualizações&color=00bfbf&style=flat)](https://github.com/daniz019)
+[![Estrelas](https://custom-icon-badges.demolab.com/github/stars/daniz019?color=00bfbf&style=flat&logo=star)](https://github.com/daniz019?tab=repositories&sort=stargazers)
+[![Seguidores](https://custom-icon-badges.demolab.com/github/followers/daniz019?color=00bfbf&style=flat&logo=person-add)](https://github.com/daniz019?tab=followers)
+
+</div>
+
+## 📱 Contatos
+
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=00bfbf)](mailto:danieldigrandi08@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00bfbf)](https://www.linkedin.com/in/daniel-di-grandi-3800a0242/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=00bfbf)](https://github.com/daniz019)
+
+</div>
