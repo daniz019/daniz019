@@ -1,8 +1,4 @@
-# Daniel Di Grandi
-
-
-## 🚀 Sobre Mim
-
+# Daniel Di Grandi 👨‍💻
 > "O código é poesia em movimento, e cada linha escrita é uma oportunidade de inovar."
 
 Sou um Engenheiro de Software apaixonado por transformar ideias em soluções tecnológicas. Especializado em desenvolvimento FullStack e automação, busco constantemente aprender e aplicar novas tecnologias para criar soluções inovadoras e eficientes.
