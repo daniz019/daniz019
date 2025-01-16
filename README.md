@@ -58,7 +58,7 @@ Sou um Engenheiro de Software apaixonado por transformar ideias em soluções te
 ## 🎓 Formação & Especialização
 
 - 📚 Cursando **Engenharia de Software** na Faculdade Anhanguera
-- 🎯 Especialização em **Desenvolvimento FullStack** e **Arquitetura de Software**
+- 🎯 Especialização em **Desenvolvimento FullStack**
 - 🤖 Foco em **Inteligência Artificial** e **Machine Learning**
 
 <div align="center">
